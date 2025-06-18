@@ -49,4 +49,3 @@ Friedberg, L. (1998). Did unilateral divorce raise divorce rates? evidence from 
 Sun, L. and Abraham, S. (2021). Estimating dynamic treatment effects in event studies with heterogeneous treatment effects. Journal of Econometrics, 225(2):175–199.
 
 Wolfers, J. (2006). Did unilateral divorce laws raise divorce rates? a reconciliation and new results. American Economic Review, 96(5):1802–1820.
-![image](https://github.com/user-attachments/assets/9ad54191-fe72-4e38-844e-d518f5632151)
